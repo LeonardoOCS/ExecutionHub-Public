@@ -1,0 +1,21 @@
+{
+  "name": "ExecutionHub",
+  "short_name": "ExecutionHub",
+  "description": "Base-first DeFi execution app for wallet, swaps, bridges and limit orders.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#0c0f1f",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
